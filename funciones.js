@@ -34,6 +34,13 @@ const bitacora = [
       descripcion: "Se inicia el acompañamiento para la propuesta de los EVA (Entornos Virtuales de Aprendizaje) junto a los docentes.",
       mes: 2,
       año: 2025 
+   },
+      { 
+      titulo: "Lo nuevo editado desde Github Pages",
+      tema: "Este es un tema interesante",
+      descripcion: "Sin más creo que ya esta verificado el funcionamiento de este interesante script.",
+      mes: 2,
+      año: 2025 
    }
 ];
 
