@@ -6,41 +6,6 @@ const bitacora = [
       descripcion: "Se evaluó el estado y rendimiento de los recursos tecnológicos, incluyendo el funcionamiento del servidor, la conectividad de la red y el estado general de los dispositivos. También se revisó el estado del aula digital móvil, verificando su infraestructura y condiciones para el uso educativo.", 
       mes: 1, 
       año: 2025 
-   },
-   { 
-      titulo: "Limpieza y mantenimiento del Servidor",
-      tema: "Servidor escolar",
-      descripcion: "Desarmado y limpieza física del servidor escolar para mantener el correcto funcionamiento.",
-      mes: 2,
-      año: 2025 
-   },
-   { 
-      titulo: "Reparación de netbooks",
-      tema: "Parque de reservas",
-      descripcion: "Recuperación y restauración de 5 nuevos equipos para el parque de reserva.",
-      mes: 2,
-      año: 2025 
-   },
-   { 
-      titulo: "Reasignación de netbooks",
-      tema: "Parque de reservas",
-      descripcion: "Se reasignaron 2 netbook a 2 preceptores del turno tarde para tareas administrativas de preceptoría.",
-      mes: 2,
-      año: 2025 
-   },
-   { 
-      titulo: "Implementación de entornos virtuales de Aprendizaje",
-      tema: "Equipamiento",
-      descripcion: "Se inicia el acompañamiento para la propuesta de los EVA (Entornos Virtuales de Aprendizaje) junto a los docentes.",
-      mes: 2,
-      año: 2025 
-   },
-      { 
-      titulo: "Lo nuevo editado desde Github Pages",
-      tema: "Este es un tema interesante",
-      descripcion: "Sin más creo que ya esta verificado el funcionamiento de este interesante script.",
-      mes: 2,
-      año: 2025 
    }
 ];
 
