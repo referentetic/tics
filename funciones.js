@@ -6,6 +6,13 @@ const bitacora = [
       descripcion: "Se evaluó el estado y rendimiento de los recursos tecnológicos, incluyendo el funcionamiento y condición del servidor, la conectividad de la red y el estado general de los dispositivos. Además, se inspeccionó el aula digital móvil, verificando sus condiciones para el uso educativo.", 
       mes: 2, 
       año: 2025 
+   },
+   {
+      titulo: "Reparación de netbooks",
+      tema: "Parque de reservas",
+      descripcion: Se iniciaron las tareas de reparación y recuperación de netbooks inactivas, las cuales serán integradas al parque de reserva para préstamo interno o reasignación a docentes y/o estudiantes.",
+      mes: 2,
+      año: 2025
    }
 ];
 
