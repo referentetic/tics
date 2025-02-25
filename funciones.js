@@ -10,7 +10,7 @@ const bitacora = [
    {
       titulo: "Reparación de netbooks",
       tema: "Parque de reservas",
-      descripcion: Se iniciaron las tareas de reparación y recuperación de netbooks inactivas, las cuales serán integradas al parque de reserva para préstamo interno y/o reasignación a docentes y estudiantes.",
+      descripcion: "Se iniciaron las tareas de reparación y recuperación de netbooks inactivas, las cuales serán integradas al parque de reserva para préstamo interno y/o reasignación a docentes y estudiantes.",
       mes: 2,
       año: 2025
    }
